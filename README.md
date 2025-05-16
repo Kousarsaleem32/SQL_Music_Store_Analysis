@@ -9,4 +9,8 @@ This project is to analyze the music playlist database. We can examine the datas
 * Postgre SQL
 * PgAdmin4
 
+## Database Schema
 
+Below is the ER diagram representing the database schema of the music store:
+
+![Database Schema](schema_diagram.png)
